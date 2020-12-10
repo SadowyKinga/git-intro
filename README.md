@@ -18,3 +18,8 @@ N. (*) Ćwiczenie do wykonania.
 7. Zmień miejscami ćwiczenia których treść kończy się znakami `(-)` (numeracja powinna pozostać poprawna).
 8. Dodaj słowa `Zadania do wykonania` przed listą ćwiczeń.
 9. Zmień nagłówek z `git-intro` na `Wstęp do gita`. (-)
+
+Monika Stepien
+Kinga sadowy
+dominika stachura
+
