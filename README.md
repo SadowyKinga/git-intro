@@ -9,6 +9,7 @@ po wykonaniu ma wyglądać następująco:
 ```
 N. (*) Ćwiczenie do wykonania.
 ```
+Zadania do wykonania:
 
 Zadanie N .1. Zmień miejscami ćwiczenia których treść kończy się znakami `(+)` (numeracja powinna pozostać poprawna).
 Zadanie N .2. Zmień numerowanie w tym pliku tak, aby numeracja zaczynała się od 1.
